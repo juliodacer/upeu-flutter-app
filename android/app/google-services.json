@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "461992943957",
+    "project_id": "upeu-flutter-app",
+    "storage_bucket": "upeu-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461992943957:android:7cc78b83dbfe0f7fa98fdc",
+        "android_client_info": {
+          "package_name": "com.example.upeu_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461992943957-ouoaddjqmpdr03if1u0cie58msl2lj5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.upeu_flutter_app",
+            "certificate_hash": "a58aa69f3e990d56754d05edd1a3ee89ebeeb6de"
+          }
+        },
+        {
+          "client_id": "461992943957-63si5pcggnvoclos0phtkjd17gkhj3ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1CxZma5dliUP266ImSnHe6OEfx3FUr24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461992943957-63si5pcggnvoclos0phtkjd17gkhj3ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
